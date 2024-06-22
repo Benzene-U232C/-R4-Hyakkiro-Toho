@@ -16,7 +16,7 @@ kmzファイルはGoogle Earthのファイル形式である。Google Earth、Go
 このルートマップは手書きで作成したものをスキャンした後にGIMPで編集して作成された。
 
 ## リンク
-[Googleマイマップ：令和４年度 第50回百粁徒歩](https://www.google.com/maps/d/edit?mid=1NFiikd0GiVEzeL-7dMCdb8G_MHUs-hw&usp=sharing)
+![Googleマイマップ：令和４年度 第50回百粁徒歩](https://www.google.com/maps/d/edit?mid=1NFiikd0GiVEzeL-7dMCdb8G_MHUs-hw&usp=sharing)
 
 <br><br>
 ※このリポジトリは令和４年度百粁徒歩有志や実行委員会、特別隊による公式のものではない。
