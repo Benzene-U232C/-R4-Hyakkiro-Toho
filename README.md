@@ -28,7 +28,7 @@ kmzファイルはGoogle Earthのファイル形式である。Google Earth、Go
 
 ## 外部リンク
 [_Googleマイマップ：令和４年度 第50回百粁徒歩_](https://www.google.com/maps/d/edit?mid=1NFiikd0GiVEzeL-7dMCdb8G_MHUs-hw&usp=sharing)<br>
-[_大阪教育大学附属高等学校天王寺校舎 令和４年度　第５０回百粁徒歩_](https://f.osaka-kyoiku.ac.jp/tennoji-h/event_jichi/2022_100km_walk/)
+[_大阪教育大学附属高等学校天王寺校舎 令和４年度_　_第５０回百粁徒歩_](https://f.osaka-kyoiku.ac.jp/tennoji-h/event_jichi/2022_100km_walk/)
 
 <br><br>
 ※このリポジトリは令和４年度百粁徒歩有志や実行委員会、特別隊による公式のものではない。
