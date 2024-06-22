@@ -1,9 +1,17 @@
 # 令和４年度百粁徒歩/R4-Hyakkiro-Toho
 
-## Googleマイマップ
+## [令和４年度百粁徒歩タイムテーブル.xlsx](令和４年度百粁徒歩タイムテーブル.xlsx)
 
-令和４年度百粁徒歩：https://www.google.com/maps/d/edit?mid=1NFiikd0GiVEzeL-7dMCdb8G_MHUs-hw&usp=sharing
+実際に使用されたタイムテーブルである。隊や班の出発・到着予定時刻だけではなくRP間の距離なども記載されている。
 
-## KMZファイルについて
+## [令和４年度_第50回百粁徒歩.kmz](令和４年度_第50回百粁徒歩.kmz)
 
-KMZファイルはGoogle Earthのファイル形式である。Google Earth(Web版)、Google Earth Pro、Googleマイマップ(Web版)で開くことができる。
+Googleマイマップで作成したデータをファイル化したものである。GoogleマイマップKMZファイルはGoogle Earthのファイル形式である。Google Earth、Googleマイマップ等で開くことができる。
+
+## [令和４年度百粁徒歩マップ_Public.pdf](令和４年度百粁徒歩マップ_Public.pdf)
+
+実際に印刷されたマップから、タイムテーブルやルート等のみを抜粋したものである。
+
+## リンク
+
+Googleマイマップ：https://www.google.com/maps/d/edit?mid=1NFiikd0GiVEzeL-7dMCdb8G_MHUs-hw&usp=sharing
